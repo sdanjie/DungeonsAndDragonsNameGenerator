@@ -1,7 +1,7 @@
-# CSC121 Lab: Name Generator 
-# This program reads a file's contents into a list. 
-# Danjie Song
-# 10/25/2016
+# This program demonstrates using python to read and write with files.
+# sdanjie
+# create: 10/25/2016
+# last update: 12/05/2018 
 import random
 
 def main():
